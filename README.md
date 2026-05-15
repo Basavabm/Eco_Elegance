@@ -1,2 +1,188 @@
 # Eco_Elegance
-Plant based gifting solutions
+{
+  "brand": "Eco_Elegance",
+  "tagline": "Gifting, naturally.",
+  "currency": "INR",
+  "products": [
+    {
+      "id": 1,
+      "name": "Jade Plant",
+      "botanical_name": "Crassula ovata",
+      "type": "Succulent",
+      "price": 599,
+      "description": "Known as the 'money plant of the west', the Jade Plant is a symbol of good luck and prosperity — a perfect housewarming or corporate gift. Long-lived and low-maintenance.",
+      "tags": ["Low maintenance", "Pet-friendly", "Air purifying"],
+      "care": {
+        "pot": "4-inch terracotta",
+        "sunlight": "Bright indirect",
+        "watering": "Once a week",
+        "ideal_for": "Living room, office"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Snake Plant",
+      "botanical_name": "Sansevieria trifasciata",
+      "type": "Air Purifier",
+      "price": 699,
+      "description": "One of the best air-purifying plants, the Snake Plant filters toxins and produces oxygen even at night. Virtually indestructible — ideal for beginners and busy plant parents.",
+      "tags": ["Air purifying", "Low light", "Drought tolerant"],
+      "care": {
+        "pot": "5-inch ceramic",
+        "sunlight": "Low to bright indirect",
+        "watering": "Every 2–3 weeks",
+        "ideal_for": "Bedroom, office"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Money Plant",
+      "botanical_name": "Epipremnum aureum",
+      "type": "Trailing Plant",
+      "price": 399,
+      "description": "A beloved Indian household plant associated with good fortune. The Golden Pothos trails beautifully from shelves or hangs in baskets, instantly adding life to any space.",
+      "tags": ["Fast growing", "Low light", "Beginner friendly"],
+      "care": {
+        "pot": "4-inch hanging pot",
+        "sunlight": "Low to medium indirect",
+        "watering": "Once a week",
+        "ideal_for": "Balcony, living room"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Peace Lily",
+      "botanical_name": "Spathiphyllum wallisii",
+      "type": "Flowering Plant",
+      "price": 849,
+      "description": "Elegant white blooms and lush dark green foliage make the Peace Lily a timeless gifting choice. It symbolises peace, harmony, and new beginnings — perfect for all occasions.",
+      "tags": ["Flowering", "Air purifying", "Elegant"],
+      "care": {
+        "pot": "5-inch glazed ceramic",
+        "sunlight": "Low to medium indirect",
+        "watering": "Twice a week",
+        "ideal_for": "Living room, gifting"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Aloe Vera",
+      "botanical_name": "Aloe barbadensis miller",
+      "type": "Medicinal Plant",
+      "price": 449,
+      "description": "A powerhouse of wellness, Aloe Vera is cherished for its soothing gel and healing properties. A thoughtful gift that keeps giving — doubles as a natural skincare remedy.",
+      "tags": ["Medicinal", "Pet-friendly", "Drought tolerant"],
+      "care": {
+        "pot": "4-inch terracotta",
+        "sunlight": "Bright indirect to direct",
+        "watering": "Every 10 days",
+        "ideal_for": "Kitchen, bathroom"
+      }
+    },
+    {
+      "id": 6,
+      "name": "ZZ Plant",
+      "botanical_name": "Zamioculcas zamiifolia",
+      "type": "Low Light Special",
+      "price": 799,
+      "description": "The ZZ Plant is nearly impossible to kill. With deep green, waxy leaves and exceptional tolerance for neglect, it thrives in offices and homes with minimal natural light.",
+      "tags": ["Low light", "Drought tolerant", "Air purifying"],
+      "care": {
+        "pot": "5-inch matte ceramic",
+        "sunlight": "Low to medium indirect",
+        "watering": "Every 2–3 weeks",
+        "ideal_for": "Office, bedroom"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Rubber Plant",
+      "botanical_name": "Ficus elastica",
+      "type": "Statement Plant",
+      "price": 999,
+      "description": "Bold, architectural foliage in deep burgundy and green makes the Rubber Plant a stunning centrepiece. A premium gift that adds a designer touch to any interior.",
+      "tags": ["Statement plant", "Air purifying", "Fast growing"],
+      "care": {
+        "pot": "6-inch ceramic",
+        "sunlight": "Bright indirect",
+        "watering": "Once a week",
+        "ideal_for": "Living room, foyer"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Bamboo Lucky Plant",
+      "botanical_name": "Dracaena sanderiana",
+      "type": "Feng Shui",
+      "price": 549,
+      "description": "A classic Feng Shui symbol of luck, health, and positive energy. Grows elegantly in water or soil and makes a universally loved gift for homes and workplaces alike.",
+      "tags": ["Feng Shui", "Low maintenance", "Gifting favourite"],
+      "care": {
+        "medium": "Water or pebbles",
+        "sunlight": "Low to medium indirect",
+        "watering": "Change water weekly",
+        "ideal_for": "Office desk, gifting"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Succulent Trio Hamper",
+      "botanical_name": "Mixed Echeveria varieties",
+      "type": "Gift Hamper",
+      "price": 1199,
+      "description": "A beautifully curated set of three assorted succulents in coordinated pots, presented in an eco-kraft gift box with a handwritten card. Perfect for birthdays and celebrations.",
+      "tags": ["Ready to gift", "Eco packaging", "Beginner friendly"],
+      "care": {
+        "includes": "3 succulents + pots",
+        "box": "Eco-kraft gift box",
+        "card": "Personalised handwritten",
+        "occasion": "Birthday, anniversary"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Green Wellness Hamper",
+      "botanical_name": "4-plant wellness collection",
+      "type": "Gift Hamper",
+      "price": 1899,
+      "description": "A thoughtfully assembled wellness hamper featuring a Snake Plant, Aloe Vera, Peace Lily, and Lavender — each chosen for air-purifying and calming properties. Comes gift-wrapped.",
+      "tags": ["Premium hamper", "Wellness theme", "Eco packaging"],
+      "care": {
+        "includes": "4 plants + ceramic pots",
+        "box": "Jute gift bag",
+        "card": "Personalised handwritten",
+        "occasion": "Get well, housewarming"
+      }
+    },
+    {
+      "id": 11,
+      "name": "Terrarium Kit",
+      "botanical_name": "Glass bowl + 3 air plants",
+      "type": "Gift Hamper",
+      "price": 1499,
+      "description": "A stunning open-glass terrarium kit with three Tillandsia air plants, decorative pebbles, and preserved moss — zero soil required. An artful gift that lasts for years.",
+      "tags": ["No soil needed", "Artful gift", "Low maintenance"],
+      "care": {
+        "includes": "Glass bowl + 3 air plants",
+        "accessories": "Pebbles, moss, driftwood",
+        "sunlight": "Bright indirect",
+        "occasion": "Corporate, gifting"
+      }
+    },
+    {
+      "id": 12,
+      "name": "Lavender Pot",
+      "botanical_name": "Lavandula angustifolia",
+      "type": "Aromatic Plant",
+      "price": 649,
+      "description": "Fragrant purple blooms and calming aromatherapy make Lavender a uniquely sensory gift. Known to reduce stress and improve sleep, it's a gift of genuine wellbeing.",
+      "tags": ["Aromatic", "Stress relief", "Flowering"],
+      "care": {
+        "pot": "5-inch terracotta",
+        "sunlight": "Full sun to bright indirect",
+        "watering": "Once a week",
+        "ideal_for": "Bedroom, balcony"
+      }
+    }
+  ]
+}
